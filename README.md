@@ -1,4 +1,4 @@
-# predictMotePriceInDanang
+# predictMotelPriceInDanang
 
 # Final Exam Project of Data Science
 
