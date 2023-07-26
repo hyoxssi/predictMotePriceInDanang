@@ -1,4 +1,4 @@
-# Final Exam Project of Data Science
+# Final Exam Project of Data Science: Predict Motel Price in Danang
 
 ## Step 1: Scrapping Data
 - Run files .ipynb in folder Scrapping to get 7 raw data files saved in folder Raw_Data
